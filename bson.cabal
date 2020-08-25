@@ -25,6 +25,7 @@ Extra-Source-Files: CHANGELOG.md
 
 Flag _old-network
   description: Control whether to use <http://hackage.haskell.org/package/network-bsd network-bsd>
+  default: False
   manual: True
 
 Library
